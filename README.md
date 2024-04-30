@@ -36,6 +36,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Developed by: Infancia Felcy P
 RegisterNumber:212223040067
+```
 module ex10(clk, sin, q);
 input clk;
 input sin;
@@ -49,10 +50,11 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
-
+```
 */
 
-**RTL LOGIC UP COUNTER**![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/5e8053be-bd7a-412d-80af-c4c19242c4dc)
+**RTL LOGIC UP COUNTER**
+![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/5e8053be-bd7a-412d-80af-c4c19242c4dc)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/b799625c-93de-4bee-8789-8de85c2476ac)
