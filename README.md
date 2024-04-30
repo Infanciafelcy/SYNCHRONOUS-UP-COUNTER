@@ -56,10 +56,14 @@ endmodule
 ![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/5e8053be-bd7a-412d-80af-c4c19242c4dc)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/b799625c-93de-4bee-8789-8de85c2476ac)
+**TIMING DIAGRAM FOR IP COUNTER**
+
+![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/b799625c-93de-4bee-8789-8de85c2476ac)
 
 
-**TRUTH TABLE**![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/b1b1f776-33ad-49cc-803d-a7bdc29d6daa)
+**TRUTH TABLE**
+
+![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/b1b1f776-33ad-49cc-803d-a7bdc29d6daa)
 
 
 **RESULTS**SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
