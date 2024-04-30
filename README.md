@@ -51,9 +51,8 @@ q[3] <= q[2];
 end
 endmodule
 ```
-*/
-
 **RTL LOGIC UP COUNTER**
+
 ![image](https://github.com/Infanciafelcy/SYNCHRONOUS-UP-COUNTER/assets/155411010/5e8053be-bd7a-412d-80af-c4c19242c4dc)
 
 
